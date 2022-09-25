@@ -5,6 +5,8 @@ Kheer
 Pasta
 Ice cream
 
+Beans
+Pizza
 
 Chapati
 Aloo
